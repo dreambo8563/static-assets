@@ -2150,7 +2150,7 @@
 											"top": 750,
 											"width": 165.8134765625,
 											"height": 13,
-											"text": "-stream *kafka.StreamClient",
+											"text": "-stream *kafka.StreamWriter",
 											"horizontalAlignment": 0
 										}
 									],
@@ -6763,7 +6763,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF7/jCvTxajuAQ="
 							},
-							"name": "stream *kafka.StreamClient",
+							"name": "stream *kafka.StreamWriter",
 							"visibility": "private"
 						}
 					]
